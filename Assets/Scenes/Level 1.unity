@@ -451,16 +451,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 54055934564764376, guid: ab1f9c189e52943bca10a67d1d35d275,
-        type: 2}
-      propertyPath: m_Mass
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 114745624142048002, guid: ab1f9c189e52943bca10a67d1d35d275,
         type: 2}
-      propertyPath: mainThrust
-      value: 20
-      objectReference: {fileID: 0}
+      propertyPath: mainEngine
+      value: 
+      objectReference: {fileID: 8300000, guid: e0a4d83cbaddf3b428f8ab4c7ad37586, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ab1f9c189e52943bca10a67d1d35d275, type: 2}
   m_IsPrefabAsset: 0
