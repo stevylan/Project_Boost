@@ -455,6 +455,21 @@ Prefab:
       propertyPath: mainThrust
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: 114745624142048002, guid: ab1f9c189e52943bca10a67d1d35d275,
+        type: 2}
+      propertyPath: deadRocket
+      value: 
+      objectReference: {fileID: 8300000, guid: f17f8cbdce77f56429cf70e81a5de04d, type: 3}
+    - target: {fileID: 114745624142048002, guid: ab1f9c189e52943bca10a67d1d35d275,
+        type: 2}
+      propertyPath: mainEngine
+      value: 
+      objectReference: {fileID: 8300000, guid: e0a4d83cbaddf3b428f8ab4c7ad37586, type: 3}
+    - target: {fileID: 114745624142048002, guid: ab1f9c189e52943bca10a67d1d35d275,
+        type: 2}
+      propertyPath: changeLevel
+      value: 
+      objectReference: {fileID: 8300000, guid: a679f320b748bf04aa1e0486dba2c222, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ab1f9c189e52943bca10a67d1d35d275, type: 2}
   m_IsPrefabAsset: 0
